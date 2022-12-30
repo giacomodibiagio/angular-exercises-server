@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "resp": {
+    "addressList": [
+      {
+        "id": "0",
+        "street": "street0",
+        "zip": "zip0",
+        "city": "city0"
+      },
+      {
+        "id": "1",
+        "street": "street1",
+        "zip": "zip1",
+        "city": "city1"
+      }
+    ]
+  }
+}
